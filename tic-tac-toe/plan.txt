@@ -1,0 +1,4 @@
+game(factory)
+    move or switch
+    chwck win
+    reset
